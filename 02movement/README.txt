@@ -33,7 +33,7 @@ Before starting this project I've gone through p5.js's reference pages and looke
     Recycling & looping: To avoid using unnecessary memory and prevent the project from causing me issues as I would go along, I coded it so that the drops aren't really deleted. When a drop crosses the bottom border (this.y > height'), it teleports back above the canvas (hence the 'random(-200, -100))
 
 3. Text Iteration(Cascading)
-//The cascading effect is achieved by a compact mathematical 'for' loop:
+//The cascading effect is achieved by a 'for' loop:
     for (let i = 0; i <repetitions; i++) {
         let x = startX +i*4;
         let y = startY + i*-4;
