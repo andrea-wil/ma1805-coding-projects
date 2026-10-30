@@ -14,7 +14,7 @@ The rainfall: I attempted to make the rainfall seem 3D by simulating depth throu
 
 How the code works:
 
-Before starting this project I've gone through p5.js's reference pages and looked through the "Object Orianted Programming(OOP)" in order to understand better how to manage a large particle system without lagging.
+Before starting this project I've studied how to manage classes and arrays 
 
 1. The global setup & draw loops
     'drops = []': An array acting as storage or a box for all individual particles.
