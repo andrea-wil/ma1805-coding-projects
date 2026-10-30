@@ -2,11 +2,11 @@ MA1805 Coding Projects
 02-Movement
 Andrea Wilkinson 101103377 
 
-For the following project I made an atmospheric piece featuring a dark purple background, rainfall, a crescent moon, and a blurry, mirage-like text.
+For the following project I wanted to make an atmospheric piece featuring a dark purple background, rainfall, a crescent moon, and a blurry cascading text.
 
 The visual elements of my project is:
 
-The background: A dark purple background for the midnight sky, with a crescent moon on the top right corner of the screen. I made the moon by layering another circle slightly ontop of the white circle to create the crescent shape.
+The background: A dark purple background for the midnight sky, with a crescent moon on the top right corner of the screen. I made the moon by layering another circle the same shade of the background slightly on-top of the white circle to create the crescent shape.
 The text: The phrase I used "There is still time", is repeated diagonally five times, I created the fading effect by using transparency or 'alpha' mapping. 
 The rainfall: I attempted to make the rainfall seem 3D by simulating depth through the speed and thickness of each drop.
 
