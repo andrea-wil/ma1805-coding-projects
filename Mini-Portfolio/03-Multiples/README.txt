@@ -2,7 +2,7 @@ MA1805 Mini-Portfolio
 03 - Multiples
 Andrea Wilkinson 101103377
 
-In this project I wanted to make shooting stars/meteors with a trail of light following behind them. 
+In this project I wanted to make shooting stars/meteors with a trail of light following behind them. I was always fascinated by shooting stars and astronomy, so I decided to research on how to create the effect of fallen meteors in code.
 
 The visual element of my project is:
 
