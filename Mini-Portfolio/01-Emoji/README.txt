@@ -2,7 +2,7 @@ MA1805 Mini-Portfolio
 01 - Emoji
 Andrea Wilkinson 101103377
 
-For my emoji creation, I wanted to make a wizard that seems shocked or surprised by something, either his own creation or whoever is staring back at him through the screen. 
+For my emoji creation, I wanted to make a wizard that seems shocked or surprised by something, either by his own creation or whoever is staring back at him through the screen. 
 
 The visual element of my project is: 
 
