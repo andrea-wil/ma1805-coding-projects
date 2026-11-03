@@ -1,5 +1,5 @@
 MA1805 Mini-Portfolio
-02-Movement
+03 - Multiples
 Andrea Wilkinson 101103377
 
 In this project I wanted to make shooting stars/meteors with a trail of light following behind them. 
