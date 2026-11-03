@@ -1,4 +1,4 @@
-MA1805 Portfolio
+MA1805 Mini-Portfolio
 02-Movement
 Andrea Wilkinson 101103377 
 
