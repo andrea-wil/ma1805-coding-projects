@@ -14,7 +14,7 @@ The rainfall: I attempted to make the rainfall seem 3D by simulating depth throu
 
 How the code works:
 
-Before starting this project I've studied how to manage classes and arrays 
+Before starting this project I looked up on how to manage arrays with the help of the P5js reference pages and a website called "Happy Coding". Through these websites I learnt about the '.push()' method and Object Oriented Programming (OOP), which helped me with using the classes for the raindrops and managing the complexity of my code as it grows larger.
 
 1. The global setup & draw loops
     'drops = []': An array acting as storage or a box for all individual particles.
