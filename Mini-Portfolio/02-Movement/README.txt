@@ -2,7 +2,7 @@ MA1805 Mini-Portfolio
 02-Movement
 Andrea Wilkinson 101103377 
 
-For the following project I wanted to make an atmospheric piece featuring a dark purple background, rainfall, a crescent moon, and a blurry cascading text.
+For the following project I wanted to make a meaningful piece inspired by a popular trend on the internet about incorporating the phrase "There is still time" from 'I saw the TV glow' into their own videos or media creations. My project features a dark purple background, rainfall, a crescent moon, and a blurry cascading text.
 
 The visual elements of my project is:
 
