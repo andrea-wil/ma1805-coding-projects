@@ -3,8 +3,11 @@ function setup() {
 }
 
 function draw() {
-  background(80,100,160);
-  background(220);
+  background(50, 90, 100);
+
+  fill(200, 10, 10);
+  rect(70, 30, 20, 110);
+  circle(80, 160, 30);
   
   fill(220, 210, 210);
   circle(200, 250, 150);
